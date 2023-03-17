@@ -1,34 +1,36 @@
 {
-    "todos": [
-        {
-            "id": 1,
-            "text": "Learn Vanilla JavaScript",
-            "completed": true,
-            "color": "green"
-        },
-        {
-            "id": 2,
-            "text": "Learn Modern ES6+ JavaScript",
-            "completed": false,
-            "color": "red"
-        },
-        {
-            "id": 3,
-            "text": "Learn React JS",
-            "completed": true,
-            "color": "yellow"
-        },
-        {
-            "text": "Learn Redux Basics",
-            "completed": false,
-            "id": 4,
-            "color": "green"
-        },
-        {
-            "text": "Learn Redux fundamentals test",
-            "completed": false,
-            "id": 5,
-            "color": "red"
-        }
-    ]
+  "data": [
+    {
+      "first": "Susah",
+      "last": "Jordan",
+      "email": "susan@example.com",
+      "salary": 95000,
+      "date": "2019-12-12",
+      "id": 1
+    },
+    {
+      "first": "Jisannn",
+      "last": "Khan",
+      "email": "jisan@example.com",
+      "salary": 92000,
+      "date": "2019-10-12",
+      "id": 2
+    },
+    {
+      "first": "Md Yousuf",
+      "last": "Hossen",
+      "email": "yousufadnan111@gmail.com",
+      "salary": "3000",
+      "date": "2023-3-17",
+      "id": 8
+    },
+    {
+      "first": "Abdullah",
+      "last": "ass-sabit",
+      "email": "sabit@gmail.com",
+      "salary": "3000",
+      "date": "2023-3-17",
+      "id": 9
+    }
+  ]
 }
